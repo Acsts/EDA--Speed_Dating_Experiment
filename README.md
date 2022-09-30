@@ -27,3 +27,8 @@ The dataset and features description provided for this project are available on 
     ```sh
     pip install -r requirements.txt
     ```
+
+## Usage
+
+The plotly figures are shown by default in png format in order to appear correctly on github. 
+If you want to take advantage of the interactive features of plotly figures, comment/delete the line `pio.renderers.default = "png"` and re-run the notebook.
