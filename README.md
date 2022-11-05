@@ -1,8 +1,10 @@
 # Exploratory Data Analysis (EDA) : Speed Dating Experiment
 
-## Jedha Fullstack Certification
-- email : antoine.costes@live.fr
-- Video link : https://share.vidyard.com/watch/SF14xc4T9CPpBDzAVz2Cbo?
+*This project (among others) has been submitted for my Jedha Data Fullstack program certification*
+
+## Video Presentation
+
+**Checkout the 10min project presentation video (in French) here: https://share.vidyard.com/watch/SF14xc4T9CPpBDzAVz2Cbo?**
 
 ## Goal of the project
 
